@@ -1,4 +1,4 @@
-# Steak In — Restaurant & Café Website
+# Dine In — Restaurant & Café Website
 
 A responsive restaurant and café website designed and developed from scratch using HTML, CSS, and JavaScript.
 
@@ -9,7 +9,7 @@ The design was developed by studying similar restaurant websites and online temp
 
 ## 📌 Project Overview
 
-Steak In is a modern, responsive restaurant and café website created to provide an engaging online dining experience.
+Dine In is a modern, responsive restaurant and café website created to provide an engaging online dining experience.
 
 The project includes multiple pages covering the homepage, restaurant menus, about section, chefs, table booking, contact, FAQs, blog, and shopping cart interface.
 
