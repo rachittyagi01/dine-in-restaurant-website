@@ -2,8 +2,8 @@
 
 A responsive restaurant and café website designed and developed from scratch using HTML, CSS, and JavaScript.
 
-Developed: 2024
-Type: Front-End Web Development Project
+**Developed:** 2024
+**Type:** Front-End Web Development Project
 
 The design was developed by studying similar restaurant websites and online templates for inspiration and to understand modern layouts, visual hierarchy, component placement, and user experience. Using those references as guidance, the website was independently designed and implemented as a practical front-end development project.
 
@@ -32,6 +32,38 @@ The project includes multiple pages covering the homepage, restaurant menus, abo
 - Interactive UI components
 - Mobile-friendly design
 
+## 📸 Website Preview
+
+### Homepage
+![Dine In Homepage](screenshots/Home.png)
+
+### Welcome / Landing Experience
+![Dine In Welcome](screenshots/welcome.png)
+
+### Classic Menu
+![Dine In Classic Menu](screenshots/menu_classic.png)
+
+### Breakfast Menu
+![Dine In Breakfast Menu](screenshots/breakfast_menu.png)
+
+### Lunch Menu
+![Dine In Lunch Menu](screenshots/lunch_menu.png)
+
+### Table Reservation
+![Dine In Reservation](screenshots/reservation.png)
+
+### Reservation Popup
+![Dine In Reservation Popup](screenshots/reservation_popup.png)
+
+### Blog
+![Dine In Blog](screenshots/blog.png)
+
+### Contact
+![Dine In Contact](screenshots/contact_us.png)
+
+### Shopping Cart
+![Dine In Shopping Cart](screenshots/cart.png)
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -57,8 +89,19 @@ PROJECT/
 │   ├── css/
 │   └── revolution/
 │
-├── .vscode/
+├── screenshots/
+│   ├── blog.png
+│   ├── breakfast_menu.png
+│   ├── cart.png
+│   ├── contact_us.png
+│   ├── Home.png
+│   ├── lunch_menu.png
+│   ├── menu_classic.png
+│   ├── reservation_popup.png
+│   ├── reservation.png
+│   ├── welcome.png
 │
+├── .vscode/
 ├── index.html
 ├── landing.html
 ├── blog-carousel.html
@@ -164,6 +207,9 @@ These third-party resources remain subject to their respective licenses and copy
 **Rachit Tyagi**
 
 Designed and developed as an independent front-end web development project.
+
+**LinkedIn:** [Rachit Tyagi](https://www.linkedin.com/in/rachittyagi1200/)  
+**Email:** tyagirachitrt@gmail.com
 
 ---
 
